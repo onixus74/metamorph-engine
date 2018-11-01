@@ -15,7 +15,7 @@ Metamorph is a game engine that is designed in a way that cannot be hacked, beca
 Metamorph is using the simplicity of Unity, with the Unreal Engine Quality where you can code with any language at any point.
 this engine is modular and will only use the libraries you need.
 
-Crypto : MTC / MTX implementation with bitcore (timetravel + sigwit)
+Crypto : MTC / MTX implementation with bitcore (timetravel + segwit)
 
 Basically building a wrapping (Glue) plateform for developers to make the best game engine ever,
 
